@@ -4,3 +4,7 @@ db.sqlite3
 __pycache__
 *.pyc
 .DS_Store
+node_modules
+public
+package-lock.json
+tesconfig.json
